@@ -46,7 +46,7 @@ const LotsTraded = () => {
   };
 
   return (
-    <div className="p-6">
+    <div className="p-6 w-full">
       <Pie data={data} options={options} />
     </div>
   );
