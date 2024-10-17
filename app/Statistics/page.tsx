@@ -1,11 +1,11 @@
-import BalanceChart from '@/components/BalanceChart'
+// import BalanceChart from '@/components/BalanceChart'
 import Navbar from '@/components/Navbar'
 import MonthlyReturns from '@/components/MonthlyReturns'
 import LotsTradedChart from '@/components/LotsTraded'
 import HistoryTable from '@/components/HistoryTable'
 import TotalGain from '@/components/TotalGain'
 import StartOverview from '@/components/StatsOverview'
-import { Box, SimpleGrid } from '@chakra-ui/react'
+import { Box} from '@chakra-ui/react'
 import React from 'react'
 
 const page = () => {

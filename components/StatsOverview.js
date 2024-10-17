@@ -1,5 +1,5 @@
 "use client"
-import { Box, Text, Stat, StatLabel, StatNumber, Button } from '@chakra-ui/react';
+import { Box, Stat, StatLabel, StatNumber, Button } from '@chakra-ui/react';
 
 const StatsOverview = () => {
   return (
